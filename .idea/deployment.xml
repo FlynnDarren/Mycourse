@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="remote">
+    <serverData>
+      <paths name="remote">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/huoz/桌面/tomcat/apache-tomcat-8.5.64/webapps/ROOT" local="$PROJECT_DIR$/out/artifacts/888_war_exploded" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
